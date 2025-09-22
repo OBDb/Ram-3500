@@ -1,0 +1,5 @@
+command_id: DA18.22051A
+test_cases:
+- expected_values:
+    RAM_GEAR_SHFT: PARK
+  response: 18DAF1180462051ADD
