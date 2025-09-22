@@ -1,0 +1,11 @@
+command_id: DAC7.220302
+test_cases:
+- expected_values:
+    RAM_DRIVER_DOOR_OPEN: 1
+    RAM_PASSENGER_DOOR_OPEN: 0
+    RAM_RLD_OPEN: 0
+    RAM_RRD_OPEN: 0
+    RAM_TRUNK_OPEN: 0
+  response: |-
+    18DAF1C710086203020200EA
+    18DAF1C7210000
