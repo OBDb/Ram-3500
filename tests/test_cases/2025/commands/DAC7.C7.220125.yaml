@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     RAM_TID_RL: 1342211675
   response: 18DAF1C7076201255000865B
+- expected_values:
+    RAM_TID_RL: 1426386336
+  response: 18DAF1C7076201255504EDA0
