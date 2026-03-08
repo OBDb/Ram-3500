@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     RAM_MODEL_YEAR: 2025
   response: 18DAF1180762F15819820A02
+- expected_values:
+    RAM_MODEL_YEAR: 2025
+  response: 18DAF1180762F15819820A04

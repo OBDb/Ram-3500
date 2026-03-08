@@ -1,0 +1,17 @@
+command_id: DA18.18.2204FE
+test_cases:
+- expected_values:
+    RAM_ATF_T_4THGEN: 34
+  response: 18DAF118066204FE4A4D55
+- expected_values:
+    RAM_ATF_T_4THGEN: 35
+  response: 18DAF118066204FE4B4E56
+- expected_values:
+    RAM_ATF_T_4THGEN: 36
+  response: 18DAF118066204FE4C4F57
+- expected_values:
+    RAM_ATF_T_4THGEN: 37
+  response: 18DAF118066204FE4D5057
+- expected_values:
+    RAM_ATF_T_4THGEN: 37
+  response: 18DAF118066204FE4D5058
