@@ -4,8 +4,11 @@ test_cases:
     RAM_ATF_T_4THGEN: 8
   response: 18DAF118066204FE30323A
 - expected_values:
-    RAM_ATF_T_4THGEN: 42
-  response: 18DAF118066204FE52555D
+    RAM_ATF_T_4THGEN: 57
+  response: 18DAF118066204FE61656D
 - expected_values:
-    RAM_ATF_T_4THGEN: 42
-  response: 18DAF118066204FE52565D
+    RAM_ATF_T_4THGEN: 58
+  response: 18DAF118066204FE62656D
+- expected_values:
+    RAM_ATF_T_4THGEN: 58
+  response: 18DAF118066204FE62666D

@@ -36,3 +36,7 @@ test_cases:
     RAM_GEAR_CURRENT: 7
     RAM_GEAR_DESIRED: 7
   response: 18DAF1180462051A77
+- expected_values:
+    RAM_GEAR_CURRENT: 8
+    RAM_GEAR_DESIRED: 8
+  response: 18DAF1180462051A88
