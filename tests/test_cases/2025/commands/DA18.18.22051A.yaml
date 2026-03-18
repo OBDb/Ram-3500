@@ -13,6 +13,10 @@ test_cases:
     RAM_GEAR_DESIRED: 3
   response: 18DAF1180462051A33
 - expected_values:
+    RAM_GEAR_CURRENT: 4
+    RAM_GEAR_DESIRED: 3
+  response: 18DAF1180462051A34
+- expected_values:
     RAM_GEAR_CURRENT: 3
     RAM_GEAR_DESIRED: 4
   response: 18DAF1180462051A43
