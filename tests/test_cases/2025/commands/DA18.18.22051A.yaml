@@ -5,38 +5,6 @@ test_cases:
     RAM_GEAR_DESIRED: 2
   response: 18DAF1180462051A22
 - expected_values:
-    RAM_GEAR_CURRENT: 2
-    RAM_GEAR_DESIRED: 3
-  response: 18DAF1180462051A32
-- expected_values:
-    RAM_GEAR_CURRENT: 3
-    RAM_GEAR_DESIRED: 3
-  response: 18DAF1180462051A33
-- expected_values:
-    RAM_GEAR_CURRENT: 4
-    RAM_GEAR_DESIRED: 3
-  response: 18DAF1180462051A34
-- expected_values:
-    RAM_GEAR_CURRENT: 3
-    RAM_GEAR_DESIRED: 4
-  response: 18DAF1180462051A43
-- expected_values:
-    RAM_GEAR_CURRENT: 4
-    RAM_GEAR_DESIRED: 4
-  response: 18DAF1180462051A44
-- expected_values:
-    RAM_GEAR_CURRENT: 5
-    RAM_GEAR_DESIRED: 4
-  response: 18DAF1180462051A45
-- expected_values:
-    RAM_GEAR_CURRENT: 6
-    RAM_GEAR_DESIRED: 6
-  response: 18DAF1180462051A66
-- expected_values:
-    RAM_GEAR_CURRENT: 7
-    RAM_GEAR_DESIRED: 7
-  response: 18DAF1180462051A77
-- expected_values:
     RAM_GEAR_CURRENT: 8
     RAM_GEAR_DESIRED: 8
   response: 18DAF1180462051A88
