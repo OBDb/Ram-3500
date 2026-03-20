@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     CLR_TIME: 7226
   response: 18DAF11004414E1C3A
+- expected_values:
+    CLR_TIME: 7313
+  response: 18DAF11004414E1C91
+- expected_values:
+    CLR_TIME: 7334
+  response: 18DAF11004414E1CA6
