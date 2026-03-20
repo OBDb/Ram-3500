@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CLR_TIME: 7334
   response: 18DAF11004414E1CA6
+- expected_values:
+    CLR_TIME: 7387
+  response: 18DAF11004414E1CDB
