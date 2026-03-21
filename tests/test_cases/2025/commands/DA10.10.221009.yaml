@@ -1,0 +1,8 @@
+command_id: DA10.10.221009
+test_cases:
+- expected_values:
+    RAM_WATER_FUEL_DIST: 61
+  response: 18DAF11005621009003D
+- expected_values:
+    RAM_WATER_FUEL_DIST: 340
+  response: 18DAF110056210090154
