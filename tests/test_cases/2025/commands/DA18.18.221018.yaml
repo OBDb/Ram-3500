@@ -1,0 +1,26 @@
+command_id: DA18.18.221018
+test_cases:
+- expected_values:
+    RAM_TCM_TORQUE: -18
+  response: 18DAF1180562101801E2
+- expected_values:
+    RAM_TCM_TORQUE: -13
+  response: 18DAF1180562101801E7
+- expected_values:
+    RAM_TCM_TORQUE: -1
+  response: 18DAF1180562101801F3
+- expected_values:
+    RAM_TCM_TORQUE: 4
+  response: 18DAF1180562101801F8
+- expected_values:
+    RAM_TCM_TORQUE: 7
+  response: 18DAF1180562101801FB
+- expected_values:
+    RAM_TCM_TORQUE: 8
+  response: 18DAF1180562101801FC
+- expected_values:
+    RAM_TCM_TORQUE: 47
+  response: 18DAF118056210180223
+- expected_values:
+    RAM_TCM_TORQUE: 51
+  response: 18DAF118056210180227

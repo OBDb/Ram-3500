@@ -1,0 +1,5 @@
+command_id: DA10.10.221002
+test_cases:
+- expected_values:
+    RAM_ENGINE_STATUS: 0
+  response: 18DAF110056210020000
