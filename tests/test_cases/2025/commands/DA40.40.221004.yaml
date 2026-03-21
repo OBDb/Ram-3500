@@ -1,0 +1,8 @@
+command_id: DA40.40.221004
+test_cases:
+- expected_values:
+    RAM_BATT_V_BCM: 14.7
+  response: 18DAF1400462100493
+- expected_values:
+    RAM_BATT_V_BCM: 14.8
+  response: 18DAF1400462100494
