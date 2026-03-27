@@ -4,6 +4,9 @@ test_cases:
     RAM_BATT_V_BCM: 14.3
   response: 18DAF140046210048F
 - expected_values:
+    RAM_BATT_V_BCM: 14.4
+  response: 18DAF1400462100490
+- expected_values:
     RAM_BATT_V_BCM: 14.5
   response: 18DAF1400462100491
 - expected_values:

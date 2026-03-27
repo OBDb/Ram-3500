@@ -4,8 +4,8 @@ test_cases:
     RAM_WATER_FUEL_DIST: 7
   response: 18DAF110056210090007
 - expected_values:
-    RAM_WATER_FUEL_DIST: 340
-  response: 18DAF110056210090154
+    RAM_WATER_FUEL_DIST: 173
+  response: 18DAF1100562100900AD
 - expected_values:
     RAM_WATER_FUEL_DIST: 1349
   response: 18DAF110056210090545
