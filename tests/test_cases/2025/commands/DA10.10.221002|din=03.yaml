@@ -1,4 +1,4 @@
-command_id: DA10.10.221002
+command_id: DA10.10.221002|din=03
 test_cases:
 - expected_values:
     RAM_ENGINE_STATUS: 0
