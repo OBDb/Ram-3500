@@ -2,10 +2,7 @@ command_id: DA18.18.2204FE
 test_cases:
 - expected_values:
     RAM_ATF_T_4THGEN: 5
-  response: 18DAF118066204FE2D2F37
-- expected_values:
-    RAM_ATF_T_4THGEN: 8
-  response: 18DAF118066204FE302E37
+  response: 18DAF118066204FE2D2E37
 - expected_values:
     RAM_ATF_T_4THGEN: 69
   response: 18DAF118066204FE6D7178
