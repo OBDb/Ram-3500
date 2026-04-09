@@ -10,6 +10,14 @@ test_cases:
     4C02129FFFFFF633229
 - expected_values:
     RAM_TP_FL_AC: 61
+    RAM_TP_FR_AC: 63
+    RAM_TP_RL_AC: 60
+    RAM_TP_RR_AC: 60
+  response: |-
+    4C0100B62A0A13D3F3C
+    4C0213CFFFFFF5D3F3C
+- expected_values:
+    RAM_TP_FL_AC: 61
     RAM_TP_FR_AC: 64
     RAM_TP_RL_AC: 61
     RAM_TP_RR_AC: 59
@@ -41,37 +49,13 @@ test_cases:
     4C0100B62A0A13F3D3E
     4C0213FFFFFFF5D3D3E
 - expected_values:
-    RAM_TP_FL_AC: 63
-    RAM_TP_FR_AC: 63
-    RAM_TP_RL_AC: 62
-    RAM_TP_RR_AC: 61
-  response: |-
-    4C0100B62A0A13F3F3D
-    4C0213EFFFFFF5C3F3D
-- expected_values:
     RAM_TP_FL_AC: 64
-    RAM_TP_FR_AC: 64
-    RAM_TP_RL_AC: 63
-    RAM_TP_RR_AC: 62
-  response: |-
-    4C0100B62A0A140403E
-    4C0213FFFFFFF5D403E
-- expected_values:
-    RAM_TP_FL_AC: 65
-    RAM_TP_FR_AC: 65
-    RAM_TP_RL_AC: 63
-    RAM_TP_RR_AC: 62
-  response: |-
-    4C0100B62A0A141413E
-    4C0213FFFFFFF5D413E
-- expected_values:
-    RAM_TP_FL_AC: 65
-    RAM_TP_FR_AC: 65
+    RAM_TP_FR_AC: 62
     RAM_TP_RL_AC: 64
     RAM_TP_RR_AC: 63
   response: |-
-    4C0100B62A0A141413F
-    4C02140FFFFFF5D413F
+    4C0100B62A0A1403E3F
+    4C02140FFFFFF5D3E3F
 - expected_values:
     RAM_TP_FL_AC: 66
     RAM_TP_FR_AC: 63
@@ -80,3 +64,43 @@ test_cases:
   response: |-
     4C0100B62A0A1423F3F
     4C0213EFFFFFF003F3F
+- expected_values:
+    RAM_TP_FL_AC: 66
+    RAM_TP_FR_AC: 66
+    RAM_TP_RL_AC: 65
+    RAM_TP_RR_AC: 64
+  response: |-
+    4C0100B62A0A1424240
+    4C02141FFFFFF5D4240
+- expected_values:
+    RAM_TP_FL_AC: 67
+    RAM_TP_FR_AC: 65
+    RAM_TP_RL_AC: 65
+    RAM_TP_RR_AC: 63
+  response: |-
+    4C0100B62A0A143413F
+    4C02141FFFFFF5D413F
+- expected_values:
+    RAM_TP_FL_AC: 67
+    RAM_TP_FR_AC: 66
+    RAM_TP_RL_AC: 66
+    RAM_TP_RR_AC: 64
+  response: |-
+    4C0100B62A0A1434240
+    4C02142FFFFFF5E4240
+- expected_values:
+    RAM_TP_FL_AC: 67
+    RAM_TP_FR_AC: 67
+    RAM_TP_RL_AC: 66
+    RAM_TP_RR_AC: 64
+  response: |-
+    4C0100B62A0A1434340
+    4C02142FFFFFF5D4340
+- expected_values:
+    RAM_TP_FL_AC: 67
+    RAM_TP_FR_AC: 67
+    RAM_TP_RL_AC: 66
+    RAM_TP_RR_AC: 65
+  response: |-
+    4C0100B62A0A1434341
+    4C02142FFFFFF004341
