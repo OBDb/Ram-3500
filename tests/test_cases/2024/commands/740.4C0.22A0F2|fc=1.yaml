@@ -35,7 +35,7 @@ test_cases:
     RAM_TT_FR_V2: -29
   response: |-
     4C0100C62A0F2111500
-    4C0210040905D0D0D00
+    4C0210040605D0D0D00
 - expected_values:
     RAM_TP_FR_V3: 6.766
     RAM_TT_FR_V2: 23
