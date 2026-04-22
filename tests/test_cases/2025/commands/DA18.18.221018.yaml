@@ -10,5 +10,5 @@ test_cases:
     RAM_TCM_TORQUE: 12
   response: 18DAF118056210180200
 - expected_values:
-    RAM_TCM_TORQUE: 669
-  response: 18DAF118056210180491
+    RAM_TCM_TORQUE: 619
+  response: 18DAF11805621018045F
