@@ -4,6 +4,12 @@ test_cases:
     EXH_RATE: 0
   response: 18DAF11004419E0000
 - expected_values:
+    EXH_RATE: 89.4
+  response: 18DAF11004419E01BF
+- expected_values:
+    EXH_RATE: 204.8
+  response: 18DAF11004419E0400
+- expected_values:
     EXH_RATE: 240.4
   response: 18DAF11004419E04B2
 - expected_values:

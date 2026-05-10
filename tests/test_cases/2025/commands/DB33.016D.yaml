@@ -17,6 +17,38 @@ test_cases:
     18DAF110100D416D1B000000
     18DAF1102109000000000000
 - expected_values:
+    FRP_A: 40710
+    FRP_A_CMD: 42360
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 530
+    FRP_B_CMD: 530
+    FRP_B_CMD_SUP: 1
+    FRP_B_SUP: 1
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    18DAF110100D416D1B108C0F
+    18DAF11021E7000035003500
+- expected_values:
+    FRP_A: 65320
+    FRP_A_CMD: 66310
+    FRP_A_CMD_SUP: 1
+    FRP_A_SUP: 1
+    FRP_B: 530
+    FRP_B_CMD: 530
+    FRP_B_CMD_SUP: 1
+    FRP_B_SUP: 1
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
+  response: |-
+    18DAF110100D416D1B19E719
+    18DAF1102184000035003500
+- expected_values:
     FRP_A: 66910
     FRP_A_CMD: 68350
     FRP_A_CMD_SUP: 1

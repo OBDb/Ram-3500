@@ -4,5 +4,8 @@ test_cases:
     RAM_TID_FL: 1342213625
   response: 18DAF1C70762012350008DF9
 - expected_values:
+    RAM_TID_FL: 1426235546
+  response: 18DAF1C7076201235502A09A
+- expected_values:
     RAM_TID_FL: 1426386723
   response: 18DAF1C7076201235504EF23
