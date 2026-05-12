@@ -15,7 +15,7 @@ test_cases:
     EGRTD_WR_SUP: 0
   response: 18DAF11007416B0159000000
 - expected_values:
-    EGRTA: 167
+    EGRTA: 215
     EGRTA_SUP: 1
     EGRTA_WR_SUP: 0
     EGRTB: -40
@@ -27,4 +27,4 @@ test_cases:
     EGRTD: -40
     EGRTD_SUP: 0
     EGRTD_WR_SUP: 0
-  response: 18DAF11007416B01CF000000
+  response: 18DAF11007416B01FF000000
