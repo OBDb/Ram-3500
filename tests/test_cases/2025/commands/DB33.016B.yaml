@@ -1,7 +1,7 @@
 command_id: DB33.016B
 test_cases:
 - expected_values:
-    EGRTA: 49
+    EGRTA: 43
     EGRTA_SUP: 1
     EGRTA_WR_SUP: 0
     EGRTB: -40
@@ -13,7 +13,7 @@ test_cases:
     EGRTD: -40
     EGRTD_SUP: 0
     EGRTD_WR_SUP: 0
-  response: 18DAF11007416B0159000000
+  response: 18DAF11007416B0153000000
 - expected_values:
     EGRTA: 215
     EGRTA_SUP: 1
