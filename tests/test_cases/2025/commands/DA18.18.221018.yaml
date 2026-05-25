@@ -1,8 +1,8 @@
 command_id: DA18.18.221018
 test_cases:
 - expected_values:
-    RAM_TCM_TORQUE: -302
-  response: 18DAF1180562101800C6
+    RAM_TCM_TORQUE: -339
+  response: 18DAF1180562101800A1
 - expected_values:
     RAM_TCM_TORQUE: 12
   response: 18DAF118056210180200
