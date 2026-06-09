@@ -64,6 +64,8 @@ supported_commands_by_ecu:
   - 7E0.017F:IDLE_TIME,IDLE_TIME_SUP,PTO_TIME,PTO_TIME_SUP,RUN_TIME,RUN_TIME_SUP
   - 7E0.018E:TQ_FR
   - 7E0.01A2:CYL_RATE
+  "7E1":
+  - 7E1.7E9.2204FE:RAM_ATF_T
 unsupported_commands_by_ecu:
   "6B4":
   - 6B4.694.22D410:RAM_HVBAT_SOC
@@ -76,7 +78,6 @@ unsupported_commands_by_ecu:
   "7E1":
   - 7E1.7E9.2118|fc=1:RAM_ATF_T_3RDGEN
   - 7E1.7E9.215C|fc=1:RAM_ATF_T_3RDGEN_V2
-  - 7E1.7E9.2204FE:RAM_ATF_T
   - 7E1.7E9.225503|fc=1:RAM_GEAR
   - 7E1.7E9.225504|fc=1:RAM_GEAR_TARGET
   "DA10":

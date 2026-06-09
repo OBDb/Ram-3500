@@ -10,14 +10,6 @@ test_cases:
     4C02129FFFFFF633229
 - expected_values:
     RAM_TP_FL_AC: 61
-    RAM_TP_FR_AC: 63
-    RAM_TP_RL_AC: 60
-    RAM_TP_RR_AC: 60
-  response: |-
-    4C0100B62A0A13D3F3C
-    4C0213CFFFFFF5D3F3C
-- expected_values:
-    RAM_TP_FL_AC: 61
     RAM_TP_FR_AC: 64
     RAM_TP_RL_AC: 61
     RAM_TP_RR_AC: 59
@@ -89,18 +81,10 @@ test_cases:
     4C0100B62A0A1474940
     4C02146FFFFFF004940
 - expected_values:
-    RAM_TP_FL_AC: 73
-    RAM_TP_FR_AC: 72
-    RAM_TP_RL_AC: 70
-    RAM_TP_RR_AC: 65
+    RAM_TP_FL_AC: 77
+    RAM_TP_FR_AC: 63
+    RAM_TP_RL_AC: 63
+    RAM_TP_RR_AC: 76
   response: |-
-    4C0100B62A0A1494841
-    4C02146FFFFFF5C4841
-- expected_values:
-    RAM_TP_FL_AC: 73
-    RAM_TP_FR_AC: 72
-    RAM_TP_RL_AC: 72
-    RAM_TP_RR_AC: 66
-  response: |-
-    4C0100B62A0A1494842
-    4C02148FFFFFF5C4842
+    4C0100B62A0A14D3F4C
+    4C0213FFFFFFF623F4C
