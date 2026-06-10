@@ -47,9 +47,11 @@ supported_commands_by_ecu:
   - 7E0.010F:IAT
   - 7E0.0110:MAF
   - 7E0.011C:OBDSUP
+  - 7E0.011F:RUNTM
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
   - 7E0.0133:BARO
+  - 7E0.0142:VPWR
   - 7E0.0143:LOAD_ABS
   - 7E0.0146:AAT
   - 7E0.0151:FUEL_TYP
@@ -64,6 +66,7 @@ supported_commands_by_ecu:
   - 7E0.017F:IDLE_TIME,IDLE_TIME_SUP,PTO_TIME,PTO_TIME_SUP,RUN_TIME,RUN_TIME_SUP
   - 7E0.018E:TQ_FR
   - 7E0.01A2:CYL_RATE
+  - 7E0.01A6:ODO
   "7E1":
   - 7E1.7E9.2204FE:RAM_ATF_T
 unsupported_commands_by_ecu:
