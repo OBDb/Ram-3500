@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     RAM_ATF_T: 113
   response: 7E9056204FE5554
+- expected_values:
+    RAM_ATF_T: 113
+  response: 7E9056204FE5555
+- expected_values:
+    RAM_ATF_T: 114.8
+  response: 7E9056204FE5655
+- expected_values:
+    RAM_ATF_T: 114.8
+  response: 7E9056204FE5656
+- expected_values:
+    RAM_ATF_T: 116.6
+  response: 7E9056204FE5756
+- expected_values:
+    RAM_ATF_T: 116.6
+  response: 7E9056204FE5757
+- expected_values:
+    RAM_ATF_T: 118.4
+  response: 7E9056204FE5857
