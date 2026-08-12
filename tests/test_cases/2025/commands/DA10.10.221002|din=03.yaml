@@ -4,5 +4,5 @@ test_cases:
     RAM_ENGINE_STATUS: 0
   response: 18DAF110056210020000
 - expected_values:
-    RAM_ENGINE_STATUS: 128
-  response: 18DAF110056210020080
+    RAM_ENGINE_STATUS: 136
+  response: 18DAF110056210020088
