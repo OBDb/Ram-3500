@@ -1,57 +1,71 @@
 command_id: 740.4C0.22A0F4|fc=1
 test_cases:
 - expected_values:
+    RAM_TP_RL_740: 6.368
     RAM_TP_RL_F: 423.5
     RAM_TP_RL_V3: 34.75
     RAM_TT_RL: -50
+    RAM_TT_RL_740: 89
     RAM_TT_RL_F: 30
   response: |-
     4C0100C62A0F4108B00
     4C0210046605C0E0E00
 - expected_values:
+    RAM_TP_RL_740: 6.766
     RAM_TP_RL_F: 436.5
     RAM_TP_RL_V3: 3.25
     RAM_TT_RL: -50
+    RAM_TT_RL_740: -37
     RAM_TT_RL_F: 33
   response: |-
     4C0100C62A0F4110D00
     4C0210049B05DD5D500
 - expected_values:
+    RAM_TP_RL_740: 6.766
     RAM_TP_RL_F: 442
     RAM_TP_RL_V3: 17
     RAM_TT_RL: -50
+    RAM_TT_RL_740: 18
     RAM_TT_RL_F: 36
   response: |-
     4C0100C62A0F4114400
     4C021004CB05CF2F200
 - expected_values:
+    RAM_TP_RL_740: 6.766
     RAM_TP_RL_F: 450.3
     RAM_TP_RL_V3: 37.75
     RAM_TT_RL: -50
+    RAM_TT_RL_740: 101
     RAM_TT_RL_F: 41
   response: |-
     4C0100C62A0F4119700
     4C0210051C05D707000
 - expected_values:
+    RAM_TP_RL_740: 6.766
     RAM_TP_RL_F: 455.8
     RAM_TP_RL_V3: 51.5
     RAM_TT_RL: -50
+    RAM_TT_RL_740: 156
     RAM_TT_RL_F: 42
   response: |-
     4C0100C62A0F411CE00
     4C0210052B05E303000
 - expected_values:
+    RAM_TP_RL_740: 6.766
     RAM_TP_RL_F: 458.5
     RAM_TP_RL_V3: 58.25
     RAM_TT_RL: -50
+    RAM_TT_RL_740: 183
     RAM_TT_RL_F: 43
   response: |-
     4C0100C62A0F411E900
     4C0210053C05D4E4E00
 - expected_values:
+    RAM_TP_RL_740: 7.164
     RAM_TP_RL_F: 464
     RAM_TP_RL_V3: 8
     RAM_TT_RL: -50
+    RAM_TT_RL_740: -18
     RAM_TT_RL_F: 47
   response: |-
     4C0100C62A0F4122000
