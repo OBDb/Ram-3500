@@ -1,0 +1,14 @@
+command_id: DA10.10.221000|f=2025-,din=03
+test_cases:
+- expected_values:
+    RAM3500_RPM: 654
+  response: 18DAF110056210000A38
+- expected_values:
+    RAM3500_RPM: 703
+  response: 18DAF110056210000AFC
+- expected_values:
+    RAM3500_RPM: 705
+  response: 18DAF110056210000B04
+- expected_values:
+    RAM3500_RPM: 2040
+  response: 18DAF110056210001FE0

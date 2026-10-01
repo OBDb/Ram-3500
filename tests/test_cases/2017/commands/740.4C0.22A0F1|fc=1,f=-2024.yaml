@@ -1,0 +1,56 @@
+command_id: 740.4C0.22A0F1|fc=1,f=-2024
+test_cases:
+- expected_values:
+    RAM3500_TP_FL_F: 393.3
+    RAM3500_TT_FL_F: 41
+  response: |-
+    4C0100C62A0F10F5D00
+    4C0210051605C0E0E00
+- expected_values:
+    RAM3500_TP_FL_F: 403.5
+    RAM3500_TT_FL_F: 41
+  response: |-
+    4C0100C62A0F10FC300
+    4C0210051C05D0F0F00
+- expected_values:
+    RAM3500_TP_FL_F: 403.5
+    RAM3500_TT_FL_F: 42
+  response: |-
+    4C0100C62A0F10FC300
+    4C0210052B05D414100
+- expected_values:
+    RAM3500_TP_FL_F: 403.5
+    RAM3500_TT_FL_F: 42
+  response: |-
+    4C0100C62A0F10FC300
+    4C0210052C05DCFCF00
+- expected_values:
+    RAM3500_TP_FL_F: 403.5
+    RAM3500_TT_FL_F: 43
+  response: |-
+    4C0100C62A0F10FC300
+    4C0210053B15D6B6B00
+- expected_values:
+    RAM3500_TP_FL_F: 411.8
+    RAM3500_TT_FL_F: 46
+  response: |-
+    4C0100C62A0F1101600
+    4C0210056C05D252500
+- expected_values:
+    RAM3500_TP_FL_F: 414.5
+    RAM3500_TT_FL_F: 47
+  response: |-
+    4C0100C62A0F1103100
+    4C0210057C05E757500
+- expected_values:
+    RAM3500_TP_FL_F: 417.3
+    RAM3500_TT_FL_F: 47
+  response: |-
+    4C0100C62A0F1104D00
+    4C0210057C05E212100
+- expected_values:
+    RAM3500_TP_FL_F: 422.8
+    RAM3500_TT_FL_F: 51
+  response: |-
+    4C0100C62A0F1108400
+    4C021005BF05C2E2E00
