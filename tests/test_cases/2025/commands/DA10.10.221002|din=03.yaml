@@ -1,8 +1,0 @@
-command_id: DA10.10.221002|din=03
-test_cases:
-- expected_values:
-    RAM_ENGINE_STATUS: 0
-  response: 18DAF110056210020000
-- expected_values:
-    RAM_ENGINE_STATUS: 136
-  response: 18DAF110056210020088

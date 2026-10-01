@@ -1,14 +1,14 @@
-command_id: DA18.18.221018
+command_id: DA18.18.221018|f=2025-
 test_cases:
 - expected_values:
-    RAM_TCM_TORQUE: -339
+    RAM3500_TCM_TORQUE: -339
   response: 18DAF1180562101800A1
 - expected_values:
-    RAM_TCM_TORQUE: -244
+    RAM3500_TCM_TORQUE: -244
   response: 18DAF118056210180100
 - expected_values:
-    RAM_TCM_TORQUE: 11
+    RAM3500_TCM_TORQUE: 11
   response: 18DAF1180562101801FF
 - expected_values:
-    RAM_TCM_TORQUE: 1000
+    RAM3500_TCM_TORQUE: 1048
   response: 18DAF11805621018060C
