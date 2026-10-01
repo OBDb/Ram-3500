@@ -1,14 +1,14 @@
-command_id: DA18.18.2204FE
+command_id: DA18.18.2204FE|f=2025-
 test_cases:
 - expected_values:
-    RAM_ATF_T_4THGEN: 5
+    RAM3500_ATF_T_4THGEN: 5
   response: 18DAF118066204FE2D2E37
 - expected_values:
-    RAM_ATF_T_4THGEN: 70
+    RAM3500_ATF_T_4THGEN: 70
   response: 18DAF118066204FE6E737C
 - expected_values:
-    RAM_ATF_T_4THGEN: 71
+    RAM3500_ATF_T_4THGEN: 71
   response: 18DAF118066204FE6F747B
 - expected_values:
-    RAM_ATF_T_4THGEN: 72
+    RAM3500_ATF_T_4THGEN: 72
   response: 18DAF118066204FE70737B
