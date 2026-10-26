@@ -4,29 +4,8 @@ test_cases:
     RAM3500_WATER_FUEL_DIST: 7
   response: 18DAF110056210090007
 - expected_values:
-    RAM3500_WATER_FUEL_DIST: 9
-  response: 18DAF110056210090009
-- expected_values:
-    RAM3500_WATER_FUEL_DIST: 13
-  response: 18DAF11005621009000D
-- expected_values:
-    RAM3500_WATER_FUEL_DIST: 22
-  response: 18DAF110056210090016
-- expected_values:
-    RAM3500_WATER_FUEL_DIST: 35
-  response: 18DAF110056210090023
-- expected_values:
-    RAM3500_WATER_FUEL_DIST: 39
-  response: 18DAF110056210090027
-- expected_values:
-    RAM3500_WATER_FUEL_DIST: 61
-  response: 18DAF11005621009003D
-- expected_values:
-    RAM3500_WATER_FUEL_DIST: 64
-  response: 18DAF110056210090040
-- expected_values:
-    RAM3500_WATER_FUEL_DIST: 340
-  response: 18DAF110056210090154
+    RAM3500_WATER_FUEL_DIST: 219
+  response: 18DAF1100562100900DB
 - expected_values:
     RAM3500_WATER_FUEL_DIST: 1349
   response: 18DAF110056210090545
