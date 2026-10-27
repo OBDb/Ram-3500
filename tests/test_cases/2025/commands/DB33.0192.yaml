@@ -1,0 +1,20 @@
+command_id: DB33.0192
+test_cases:
+- expected_values:
+    FIQ1_CL: 0
+    FIQ1_CL_SUP: 0
+    FIQ2_CL: 0
+    FIQ2_CL_SUP: 0
+    FIT1_CL: 0
+    FIT1_CL_SUP: 0
+    FIT2_CL: 0
+    FIT2_CL_SUP: 0
+    FP1_CL: 1
+    FP1_CL_SUP: 1
+    FP2_CL: 0
+    FP2_CL_SUP: 1
+    IFB1_CL: 0
+    IFB1_CL_SUP: 0
+    IFB2_CL: 0
+    IFB2_CL_SUP: 0
+  response: 18DAF1100441921101
